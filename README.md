@@ -4,4 +4,5 @@
 2. CSS
 3. Slack
 4. Command Line
-5. Git 
+5. Git
+6. Javascript still to come
